@@ -1,0 +1,12 @@
+C:\Users\Leonardo Sanches\source\repos\Aplicativo_Receita\Aplicativo_Receita\bin\Debug\Aplicativo_Receita.exe.config
+C:\Users\Leonardo Sanches\source\repos\Aplicativo_Receita\Aplicativo_Receita\bin\Debug\Aplicativo_Receita.exe
+C:\Users\Leonardo Sanches\source\repos\Aplicativo_Receita\Aplicativo_Receita\bin\Debug\Aplicativo_Receita.pdb
+C:\Users\Leonardo Sanches\source\repos\Aplicativo_Receita\Aplicativo_Receita\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Leonardo Sanches\source\repos\Aplicativo_Receita\Aplicativo_Receita\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Leonardo Sanches\source\repos\Aplicativo_Receita\Aplicativo_Receita\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Leonardo Sanches\source\repos\Aplicativo_Receita\Aplicativo_Receita\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Leonardo Sanches\source\repos\Aplicativo_Receita\Aplicativo_Receita\obj\Debug\Aplicativo_Receita.csprojAssemblyReference.cache
+C:\Users\Leonardo Sanches\source\repos\Aplicativo_Receita\Aplicativo_Receita\obj\Debug\Aplicativo_Receita.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo Sanches\source\repos\Aplicativo_Receita\Aplicativo_Receita\obj\Debug\Aplicativo_Receita.csproj.CopyComplete
+C:\Users\Leonardo Sanches\source\repos\Aplicativo_Receita\Aplicativo_Receita\obj\Debug\Aplicativo_Receita.exe
+C:\Users\Leonardo Sanches\source\repos\Aplicativo_Receita\Aplicativo_Receita\obj\Debug\Aplicativo_Receita.pdb
