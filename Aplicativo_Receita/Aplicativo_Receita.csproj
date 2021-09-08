@@ -49,13 +49,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Deleta.cs" />
-    <Compile Include="Estrutura.cs" />
-    <Compile Include="PegaInfo.cs" />
-    <Compile Include="Class1.cs" />
-    <Compile Include="Procura.cs" />
+    <Compile Include="Company.cs" />
+    <Compile Include="InfraReceita.cs" />
+    <Compile Include="ConsoleMain.cs" />
+    <Compile Include="InfraTxt.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="valida.cs" />
+    <Compile Include="Validate.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
